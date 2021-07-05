@@ -1,2 +1,2 @@
-# javaFX-sceens-snake
+# javaFX-sceens-snakes-apples-game 
 working on it ......
